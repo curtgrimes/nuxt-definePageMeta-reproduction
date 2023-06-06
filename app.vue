@@ -1,5 +1,9 @@
+<script setup lang="ts">
+definePageMeta({
+  alias: ["/foo"],
+});
+</script>
+
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <div>Test</div>
 </template>
